@@ -1,0 +1,56 @@
+{
+    "shops":[
+        {
+            "id":1,
+            "city": "Nis",
+            "phones": [1,2]
+        },
+        {
+            "id":2,
+            "city": "Beograd",
+            "phones": [3,4]
+        }
+    ],
+    "phones":[
+        {
+            "id":1,
+            "name": "S20 Ultra",
+            "os": "Android 10",
+            "display": "6.9 inches",
+            "ram": "16gb",
+            "memory": "128gb",
+            "camera": "108mp",
+            "price": "1400$"
+        },
+        {
+            "id":2,
+            "name": "S20 +",
+            "display": "6.5 inches",
+            "os": "Android 10",
+            "ram": "12gb",
+            "memory": "128gb",
+            "camera": "64mp",
+            "price": "1200$"
+        },
+        {
+            "id":3,
+            "name": "S20",
+            "display": "6.2 inches",
+            "os": "Android 10",
+            "ram": "12gb",
+            "memory": "128gb",
+            "camera": "12mp",
+            "price": "1000$"
+        },{
+            "id":4,
+            "name": "Note 10+",
+            "display": "6.8 inches",
+            "os": "Android 10",
+            "ram": "16gb",
+            "memory": "128gb",
+            "camera": "12mp",
+            "price": "1000$"
+        }
+    ]
+    
+}
